@@ -6,3 +6,5 @@ after streamlit installation, open the terminal and enter streamlit run app.py
 app.py is where the python prototype is made. 
 
 Thanks for viewing my product. Have a nice day!
+
+Demo link: https://drive.google.com/file/d/12AD7uM8lJllVSxRZrsyPu4b_I2vg77rK/view?usp=sharing
